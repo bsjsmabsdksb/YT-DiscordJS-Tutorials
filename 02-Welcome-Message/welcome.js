@@ -1,6 +1,6 @@
-module.exports = (client) => {
-  const channelId = "812458294085550121";
-  const rulesChannel = "812460469016199248";
+module.exports = 879450795572092948 => {
+  const channelId = "877426805735301120";
+  const rulesChannel = "877428225402347560";
   client.on("guildMemberAdd", (member) => {
     console.log(member);
 
